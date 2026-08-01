@@ -9,7 +9,7 @@ the O.B. Lulu-Briggs Foundation.
 Once GitHub Pages is enabled for this repo, the report is available at:
 
 ```
-https://<your-username>.github.io/<repo-name>/elele-medical-mission-report.html
+https://dakozy.github.io/elele-free-medical-mission/elele-medical-mission-report.html
 ```
 
 ## Contents
